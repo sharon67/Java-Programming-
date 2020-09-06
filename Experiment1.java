@@ -1,4 +1,5 @@
-//comment
+//Invoice 
+
 //import java.io.*;
 //import java.util.Scanner;
 public class Experiment1 {
@@ -23,7 +24,7 @@ class Invoice{
             if(price<0)
             this.price=0.0;
             else
-	{
+{
 	this.price=price;
            	this.partNumber=partNumber;
             	this.partDescription=partDescription;
