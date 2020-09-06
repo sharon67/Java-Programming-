@@ -1,3 +1,5 @@
+//Electricity bill
+
 import java.io.*;
 import java.util.Scanner;
 class Ebill{
